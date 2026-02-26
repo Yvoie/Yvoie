@@ -1,6 +1,6 @@
 # Merhaba, Ben Yusuf 👋
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SENIN_KULLANICI_ADIN&color=00599C&style=flat-square&label=PROFİL+GÖRÜNTÜLENME" alt="Profil Görüntülenme Sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=Yvoie&color=00599C&style=flat-square&label=PROFİL+GÖRÜNTÜLENME" alt="Profil Görüntülenme Sayacı" />
 </p>
 
 Bilgisayar Teknolojisi ve Bilişim Sistemleri son sınıf öğrencisiyim. Akademik eğitimim ve kişisel ilgim doğrultusunda yazılım geliştirme, donanım entegrasyonları ve veri analizi süreçlerine odaklanıyorum. 
