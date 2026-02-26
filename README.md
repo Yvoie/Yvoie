@@ -13,39 +13,22 @@ Bilgisayar Teknolojisi ve Bilişim Sistemleri son sınıf öğrencisiyim. Akadem
 
 ### 🛠️ Teknoloji ve Araç Çantam
 
-**📱 Mobil & Yazılım Geliştirme:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+**📱 Mobil & Yazılım Geliştirme:** &nbsp; <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> <img align="center" src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" /> <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<br><br>
 
-**🌐 Web Geliştirme:**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+**🌐 Web Geliştirme:** &nbsp; <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<br><br>
 
-**🏢 Kurumsal Sistemler & ERP:**
-<p align="left">
-  <img src="https://img.shields.io/badge/ERP_Uygulamaları-0052CC?style=for-the-badge&logo=confluence&logoColor=white" alt="ERP" />
-</p>
+**🏢 Kurumsal Sistemler & ERP:** &nbsp; <img align="center" src="https://img.shields.io/badge/ERP_Uygulamaları-0052CC?style=for-the-badge&logo=confluence&logoColor=white" alt="ERP" />
+<br><br>
 
-**⚙️ Donanım & IoT:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-</p>
+**⚙️ Donanım & IoT:** &nbsp; <img align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" /> <img align="center" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<br><br>
 
-**📊 Veritabanı & Analiz Araçları:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MATLAB-D97616?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/JASP-1565C0?style=for-the-badge&logo=google-analytics&logoColor=white" alt="JASP" />
-</p>
+**📊 Veritabanı & Analiz Araçları:** &nbsp; <img align="center" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img align="center" src="https://img.shields.io/badge/MATLAB-D97616?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" /> <img align="center" src="https://img.shields.io/badge/JASP-1565C0?style=for-the-badge&logo=google-analytics&logoColor=white" alt="JASP" />
+<br>
+
+---
 
 ### 📈 GitHub İstatistiklerim
 
@@ -56,7 +39,6 @@ Bilgisayar Teknolojisi ve Bilişim Sistemleri son sınıf öğrencisiyim. Akadem
   <a href="https://github.com/Yvoie?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvoie&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="En Çok Kullanılan Diller" height="160" />
   </a>
-</p>
 </p>
 
 ### 🐍 GitHub Aktivite Yılanı
