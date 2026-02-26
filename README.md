@@ -59,6 +59,11 @@ Bilgisayar Teknolojisi ve Bilişim Sistemleri son sınıf öğrencisiyim. Akadem
 </p>
 </p>
 
+### 🐍 GitHub Aktivite Yılanı
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Yvoie/Yvoie/output/github-snake.svg" alt="Yılan Animasyonu" />
+</p>
+
 ### 📫 İletişim
 
 Bana dilediğin zaman ulaşabilirsin:
