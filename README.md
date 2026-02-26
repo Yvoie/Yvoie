@@ -44,11 +44,16 @@ Bilgisayar Teknolojisi ve Bilişim Sistemleri son sınıf öğrencisiyim. Akadem
   <img src="https://img.shields.io/badge/JASP-1565C0?style=for-the-badge&logo=google-analytics&logoColor=white" alt="JASP" />
 </p>
 
-### 📊 GitHub İstatistiklerim
+### 📈 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=333333" alt="GitHub İstatistikleri" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="En Çok Kullanılan Diller" height="160" />
+  <a href="https://github.com/Yvoie?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yvoie&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=333333" alt="GitHub İstatistikleri" height="160" />
+  </a>
+  <a href="https://github.com/Yvoie?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvoie&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="En Çok Kullanılan Diller" height="160" />
+  </a>
+</p>
 </p>
 
 ### 📫 İletişim
