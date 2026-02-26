@@ -30,17 +30,6 @@ Bilgisayar Teknolojisi ve Bilişim Sistemleri son sınıf öğrencisiyim. Akadem
 
 ---
 
-### 📈 GitHub İstatistiklerim
-
-<p align="left">
-  <a href="https://github.com/Yvoie?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yvoie&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=333333" alt="GitHub İstatistikleri" height="160" />
-  </a>
-  <a href="https://github.com/Yvoie?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvoie&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="En Çok Kullanılan Diller" height="160" />
-  </a>
-</p>
-
 ### 🐍 GitHub Aktivite Yılanı
 <p align="left">
   <img src="https://raw.githubusercontent.com/Yvoie/Yvoie/output/github-snake.svg" alt="Yılan Animasyonu" />
